@@ -1,0 +1,13 @@
+C:\Users\haciy\source\repos\exercises_advanced\bin\Debug\netcoreapp3.1\exercises_advanced.exe
+C:\Users\haciy\source\repos\exercises_advanced\bin\Debug\netcoreapp3.1\exercises_advanced.deps.json
+C:\Users\haciy\source\repos\exercises_advanced\bin\Debug\netcoreapp3.1\exercises_advanced.runtimeconfig.json
+C:\Users\haciy\source\repos\exercises_advanced\bin\Debug\netcoreapp3.1\exercises_advanced.runtimeconfig.dev.json
+C:\Users\haciy\source\repos\exercises_advanced\bin\Debug\netcoreapp3.1\exercises_advanced.dll
+C:\Users\haciy\source\repos\exercises_advanced\bin\Debug\netcoreapp3.1\exercises_advanced.pdb
+C:\Users\haciy\source\repos\exercises_advanced\obj\Debug\netcoreapp3.1\exercises_advanced.csprojAssemblyReference.cache
+C:\Users\haciy\source\repos\exercises_advanced\obj\Debug\netcoreapp3.1\exercises_advanced.AssemblyInfoInputs.cache
+C:\Users\haciy\source\repos\exercises_advanced\obj\Debug\netcoreapp3.1\exercises_advanced.AssemblyInfo.cs
+C:\Users\haciy\source\repos\exercises_advanced\obj\Debug\netcoreapp3.1\exercises_advanced.csproj.CoreCompileInputs.cache
+C:\Users\haciy\source\repos\exercises_advanced\obj\Debug\netcoreapp3.1\exercises_advanced.dll
+C:\Users\haciy\source\repos\exercises_advanced\obj\Debug\netcoreapp3.1\exercises_advanced.pdb
+C:\Users\haciy\source\repos\exercises_advanced\obj\Debug\netcoreapp3.1\exercises_advanced.genruntimeconfig.cache
